@@ -1,3 +1,7 @@
+# 3.1.1
+
+
+
 # [3.1.0](https://github.com/CodetrixStudio/CapacitorGoogleAuth/v3.0.2...v3.1.0) (2021-07-30)
 
 ### Features
